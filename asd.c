@@ -1,0 +1,3 @@
+int maina(){
+	asdasd
+
